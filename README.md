@@ -25,7 +25,7 @@
 
 - [poseidon](https://github.com/pachterlab/poseidon)
 - [colosseum](https://github.com/pachterlab/colosseum)
-- 
+
 </details>
 <details>
 <summary>Article repositories</summary>
