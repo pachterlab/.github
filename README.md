@@ -1,4 +1,4 @@
-# Table of contents for the Pachter Lab Github Organization
+# The Pachter Lab Github Organization
 
 <details>
 <summary>Open source software</summary>
