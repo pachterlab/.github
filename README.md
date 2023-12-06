@@ -30,7 +30,7 @@
 <details>
 <summary>Article repositories</summary>
 <br>
-These repositories contain code to reproduce figures and results from papers. Each repository has the naming convention <author last names in order of appearance in the article>_<year published>
+These repositories contain code to reproduce figures and results from papers. Each repository has the naming convention [initials of author last names in order of appearance in the article]_[year published].
 <br>
 
 - [CP_2023](https://github.com/pachterlab/CP_2023)
