@@ -1,6 +1,7 @@
 # Table of contents for the Pachter Lab Github Organization
 
-## Open source software
+<details>
+<summary>Open source software</summary>
 
 - [concordex](https://github.com/pachterlab/concordex)
 - [ffq](https://github.com/pachterlab/ffq)
@@ -18,13 +19,19 @@
 - [qcbc](https://github.com/pachterlab/qcbc)
 - [voyager](https://github.com/pachterlab/voyager)
 
-## Open source hardware
+</details>
+<details>
+<summary>Open source hardware</summary>
 
 - [poseidon](https://github.com/pachterlab/poseidon)
 - [colosseum](https://github.com/pachterlab/colosseum)
-
-## Article repositories
+- 
+</details>
+<details>
+<summary>Article repositories</summary>
+<br>
 These repositories contain code to reproduce figures and results from papers. Each repository has the naming convention <author last names in order of appearance in the article>_<year published>
+<br>
 
 - [CP_2023](https://github.com/pachterlab/CP_2023)
 - [CGCCP_2023](https://github.com/pachterlab/CGCCP_2023)
@@ -69,3 +76,5 @@ These repositories contain code to reproduce figures and results from papers. Ea
 - [NYMP_2018](https://github.com/pachterlab/NYMP_2018)
 - [PM_2018](https://github.com/pachterlab/PM_2018)
 - [YLMP_2018](https://github.com/pachterlab/YLMP_2018)
+
+</details>
