@@ -24,8 +24,8 @@
 <details>
 <summary>Open source hardware</summary>
 
-- [poseidon](https://github.com/pachterlab/poseidon)
-- [colosseum](https://github.com/pachterlab/colosseum)
+- [poseidon](https://github.com/pachterlab/poseidon): Open source syringe pumps and microscope
+- [colosseum](https://github.com/pachterlab/colosseum): Open source fraction collector
 
 </details>
 <details>
