@@ -33,7 +33,8 @@
 <br>
 These repositories contain code to reproduce figures and results from papers. Each repository has the naming convention [initials of author last names in order of appearance in the article]_[year published].
 <br>
-
+- [LHKP_2023](https://github.com/pachterlab/LHKP_2023)
+- [LSCHWCP_2023](https://github.com/pachterlab/LSCHWCP_2023)
 - [CP_2023](https://github.com/pachterlab/CP_2023)
 - [CGCCP_2023](https://github.com/pachterlab/CGCCP_2023)
 - [GVP_2023](https://github.com/pachterlab/GVP_2023)
