@@ -34,12 +34,22 @@
 These repositories contain code to reproduce figures and results from papers. Each repository has the naming convention [initials of author last names in order of appearance in the article]_[year published].
 <br>
 
+- [LSRRSRLFKOTWMWMP_2024](https://github.com/pachterlab/LSRRSRLFKOTWMWMP_2024)
+- [LP_2024](https://github.com/pachterlab/LP_2024)
+- [CGP_2024_2](https://github.com/pachterlab/CGP_2024_2)
+- [RMEJLBASBMP_2024](https://github.com/pachterlab/RMEJLBASBMP_2024)
+- [HCP_2024](https://github.com/pachterlab/HCP_2024)
+- [GBP_2024](https://github.com/pachterlab/GBP_2024)
+- [BGP_2024](https://github.com/pachterlab/BGP_2024)
+- [HSSHMP_2024](https://github.com/pachterlab/HSSHMP_2024)
+- [FGP_2024](https://github.com/pachterlab/FGP_2024)
+- [LSCHWCP_2023](https://github.com/pachterlab/LSCHWCP_2023)
 - [CP_2023](https://github.com/pachterlab/CP_2023)
 - [CGCCP_2023](https://github.com/pachterlab/CGCCP_2023)
 - [GVP_2023](https://github.com/pachterlab/GVP_2023)
 - [GP_2023](https://github.com/pachterlab/GP_2023)
 - [BGP_2023](https://github.com/pachterlab/BGP_2023)
-- [JBMMCP_2023](https://github.com/pachterlab/JBMMCP_2023)
+- [JBMMCKP_2023](https://github.com/pachterlab/JBMMCKP_2023)
 - [CGP_2023](https://github.com/pachterlab/CGP_2023)
 - [BSP_2023](https://github.com/pachterlab/BSP_2023)
 - [DBALLSMRDMCMGWSTPMBDKPFP_2023](https://github.com/pachterlab/DBALLSMRDMCMGWSTPMBDKPFP_2023)
