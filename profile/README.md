@@ -33,7 +33,19 @@
 <br>
 These repositories contain code to reproduce figures and results from papers. Each repository has the naming convention [initials of author last names in order of appearance in the article]_[year published].
 <br>
-
+- [CJP_2025](https://github.com/pachterlab/CJP_2025)
+- [SBRGKLAYWMP_2025](https://github.com/pachterlab/SBRGKLAYWMP_2025)
+- [RLSRP_2025](https://github.com/pachterlab/RLSRP_2025)
+- [OP_2025](https://github.com/pachterlab/OP_2025)
+- [SBP_2025](https://github.com/pachterlab/SBP_2025)
+- [KP_2025](https://github.com/pachterlab/KP_2025)
+- [FP_2025](https://github.com/pachterlab/FP_2025)
+- [ROP_2025](https://github.com/pachterlab/ROP_2025)
+- [FCSKPP_2025](https://github.com/pachterlab/FCSKPP_2025)
+- [SHSOHMP_2024](https://github.com/pachterlab/SHSOHMP_2024)
+- [MHRP_2024](https://github.com/pachterlab/MHRP_2024)
+- [FLP_2024](https://github.com/pachterlab/FLP_2024)
+- [MEPSP_2024](https://github.com/pachterlab/MEPSP_2024)
 - [LSRRSRLFKOTWMWMP_2024](https://github.com/pachterlab/LSRRSRLFKOTWMWMP_2024)
 - [LP_2024](https://github.com/pachterlab/LP_2024)
 - [CGP_2024_2](https://github.com/pachterlab/CGP_2024_2)
