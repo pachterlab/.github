@@ -7,18 +7,22 @@
 - [concordexR](https://github.com/pachterlab/concordexR): Quantitative assessment of single-cell RNA-seq clustering (R)
 - [ffq](https://github.com/pachterlab/ffq): Find sequencing data and metadata from public databases
 - [gget](https://github.com/pachterlab/gget): Efficient querying of genomic reference databases
+- [k-spaces](https://github.com/pachterlab/k-spaces): Fit mixtures of low dimensional Gaussian latent variable models for data modeling, dimension reduction, and subspace learning
 - [kallisto](https://github.com/pachterlab/kallisto): Pseudoalignment for mapping sequence reads to targets, including quantification bulk and single-cell RNA-seq data
 - [kb-python](https://github.com/pachterlab/kb_python): Wrapper for the kallisto | bustools workflow for single-cell RNA-seq preprocessing
 - [kite](https://github.com/pachterlab/kite): Fast and accurate preprocessing of feature barcode experiments
 - [metakallisto](https://github.com/pachterlab/metakallisto): metagenomics analysis with kallisto
 - [monod](https://github.com/pachterlab/monod): Fit chemical master equation models to sequencing data
 - [PCCA](https://github.com/pachterlab/PCCA): Couple PCA to CCA
+- [rhoPCA](https://github.com/pachterlab/rhopca): The ρPCA method for contrastive PCA of single-cell RNA-seq data
 - [seqspec](https://github.com/pachterlab/seqspec): A machine-readable YAML file format for genomic library sequence and structure
 - [SpatialFeatureExperiment](https://github.com/pachterlab/SpatialFeatureExperiment): Extension of SpatialExperiment with sf
 - [sleuth](https://github.com/pachterlab/sleuth): Differential analysis of bulk RNA-seq
 - [splitcode](https://github.com/pachterlab/splitcode): Flexible and efficient preprocessing, parsing, and manipulation of sequencing reads
 - [qcbc](https://github.com/pachterlab/qcbc): Quality control synthetic barcode sequences for orthogonal sequencing-based assays
 - [voyager](https://github.com/pachterlab/voyager): Platform for exploratory spatial single-cell genomics data analysis
+- [wompwomp](https://github.com/pachterlab/wompwomp): Make alluvial plots with node order and colors optimized to minimize edge crossings
+
 
 </details>
 <details>
