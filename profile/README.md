@@ -62,6 +62,7 @@ These repositories contain code, analyses, and formal proofs accompanying papers
 <br>
 
 - [JGP_2026](https://github.com/pachterlab/JGP_2026)
+- [LDBCCDWHPG_2026](https://github.com/pachterlab/LDBCCDWHPG_2026)
 - [P_2026](https://github.com/pachterlab/P_2026)
 - [P_2026_2](https://github.com/pachterlab/P_2026_2)
 - [P_2026_Bandelt-Dress](https://github.com/pachterlab/P_2026_Bandelt-Dress)
@@ -150,7 +151,6 @@ These repositories contain code, analyses, and formal proofs accompanying papers
 - [YLMP_2018](https://github.com/pachterlab/YLMP_2018)
 - [aggregationDE](https://github.com/pachterlab/aggregationDE)
 - [attainable_information_figures](https://github.com/pachterlab/attainable_information_figures)
-- [Goentoro](https://github.com/pachterlab/Goentoro)
 - [kallisto_paper_analysis](https://github.com/pachterlab/kallisto_paper_analysis)
 - [PROBer_paper_analysis](https://github.com/pachterlab/PROBer_paper_analysis)
 - [sleuth_paper_analysis](https://github.com/pachterlab/sleuth_paper_analysis)
