@@ -58,9 +58,19 @@
 <details>
 <summary>Article repositories</summary>
 <br>
-These repositories contain code to reproduce figures and results from papers. Each repository has the naming convention [initials of author last names in order of appearance in the article]_[year published].
+These repositories contain code, analyses, and formal proofs accompanying papers. Most use the naming convention [initials of author last names in order of appearance in the article]_[year published], sometimes with an additional suffix.
 <br>
-  
+
+- [JGP_2026](https://github.com/pachterlab/JGP_2026)
+- [P_2026](https://github.com/pachterlab/P_2026)
+- [P_2026_2](https://github.com/pachterlab/P_2026_2)
+- [P_2026_Bandelt-Dress](https://github.com/pachterlab/P_2026_Bandelt-Dress)
+- [RP_2026_2](https://github.com/pachterlab/RP_2026_2)
+- [SEP_2026](https://github.com/pachterlab/SEP_2026)
+- [SP_2026](https://github.com/pachterlab/SP_2026)
+- [FFP_2025](https://github.com/pachterlab/FFP_2025)
+- [OBP_2025](https://github.com/pachterlab/OBP_2025)
+- [OP_2025_2](https://github.com/pachterlab/OP_2025_2)
 - [CJP_2025](https://github.com/pachterlab/CJP_2025)
 - [SBRGKLAYWMP_2025](https://github.com/pachterlab/SBRGKLAYWMP_2025)
 - [RLSRP_2025](https://github.com/pachterlab/RLSRP_2025)
@@ -83,6 +93,9 @@ These repositories contain code to reproduce figures and results from papers. Ea
 - [BGP_2024](https://github.com/pachterlab/BGP_2024)
 - [HSSHMP_2024](https://github.com/pachterlab/HSSHMP_2024)
 - [FGP_2024](https://github.com/pachterlab/FGP_2024)
+- [FGP_2023](https://github.com/pachterlab/FGP_2023)
+- [GP_2023_2](https://github.com/pachterlab/GP_2023_2)
+- [LHKP_2023](https://github.com/pachterlab/LHKP_2023)
 - [LSCHWCP_2023](https://github.com/pachterlab/LSCHWCP_2023)
 - [CP_2023](https://github.com/pachterlab/CP_2023)
 - [CGCCP_2023](https://github.com/pachterlab/CGCCP_2023)
@@ -94,6 +107,7 @@ These repositories contain code to reproduce figures and results from papers. Ea
 - [BSP_2023](https://github.com/pachterlab/BSP_2023)
 - [DBALLSMRDMCMGWSTPMBDKPFP_2023](https://github.com/pachterlab/DBALLSMRDMCMGWSTPMBDKPFP_2023)
 - [KBP_2023](https://github.com/pachterlab/KBP_2023)
+- [BHGP_2022_v1](https://github.com/pachterlab/BHGP_2022_v1)
 - [GFCP_2022](https://github.com/pachterlab/GFCP_2022)
 - [CBP_2022](https://github.com/pachterlab/CBP_2022)
 - [BHGP_2022](https://github.com/pachterlab/BHGP_2022)
@@ -102,6 +116,10 @@ These repositories contain code to reproduce figures and results from papers. Ea
 - [GCCP_2022](https://github.com/pachterlab/GCCP_2022)
 - [HSHMP_2022](https://github.com/pachterlab/HSHMP_2022)
 - [HPM_2022](https://github.com/pachterlab/HPM_2022)
+- [BP_2021_2](https://github.com/pachterlab/BP_2021_2)
+- [GP_2021_2](https://github.com/pachterlab/GP_2021_2)
+- [GP_2021_3](https://github.com/pachterlab/GP_2021_3)
+- [GP_2021_4](https://github.com/pachterlab/GP_2021_4)
 - [CWGFLHGCCHAP_2021](https://github.com/pachterlab/CWGFLHGCCHAP_2021)
 - [GP_2021](https://github.com/pachterlab/GP_2021)
 - [GVFP_2021](https://github.com/pachterlab/GVFP_2021)
@@ -111,6 +129,8 @@ These repositories contain code to reproduce figures and results from papers. Ea
 - [BP_2021](https://github.com/pachterlab/BP_2021)
 - [BKMGP_2021](https://github.com/pachterlab/BKMGP_2021)
 - [CBP_2021](https://github.com/pachterlab/CBP_2021)
+- [BP_2020_2](https://github.com/pachterlab/BP_2020_2)
+- [GP_2020_2](https://github.com/pachterlab/GP_2020_2)
 - [BYVSTZP_2020](https://github.com/pachterlab/BYVSTZP_2020)
 - [GP_2020](https://github.com/pachterlab/GP_2020)
 - [BP_2020](https://github.com/pachterlab/BP_2020)
@@ -118,6 +138,7 @@ These repositories contain code to reproduce figures and results from papers. Ea
 - [GRNP_2020](https://github.com/pachterlab/GRNP_2020)
 - [BTRBP_2020](https://github.com/pachterlab/BTRBP_2020)
 - [BMGP_2020](https://github.com/pachterlab/BMGP_2020)
+- [GPCTP_2019-2](https://github.com/pachterlab/GPCTP_2019-2)
 - [GSP_2019](https://github.com/pachterlab/GSP_2019)
 - [MBGBLHGP_2019](https://github.com/pachterlab/MBGBLHGP_2019)
 - [SP_2019](https://github.com/pachterlab/SP_2019)
@@ -127,5 +148,11 @@ These repositories contain code to reproduce figures and results from papers. Ea
 - [NYMP_2018](https://github.com/pachterlab/NYMP_2018)
 - [PM_2018](https://github.com/pachterlab/PM_2018)
 - [YLMP_2018](https://github.com/pachterlab/YLMP_2018)
+- [aggregationDE](https://github.com/pachterlab/aggregationDE)
+- [attainable_information_figures](https://github.com/pachterlab/attainable_information_figures)
+- [Goentoro](https://github.com/pachterlab/Goentoro)
+- [kallisto_paper_analysis](https://github.com/pachterlab/kallisto_paper_analysis)
+- [PROBer_paper_analysis](https://github.com/pachterlab/PROBer_paper_analysis)
+- [sleuth_paper_analysis](https://github.com/pachterlab/sleuth_paper_analysis)
 
 </details>
