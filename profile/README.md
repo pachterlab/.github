@@ -149,10 +149,10 @@ These repositories contain code, analyses, and formal proofs accompanying papers
 - [NYMP_2018](https://github.com/pachterlab/NYMP_2018)
 - [PM_2018](https://github.com/pachterlab/PM_2018)
 - [YLMP_2018](https://github.com/pachterlab/YLMP_2018)
-- [aggregationDE](https://github.com/pachterlab/aggregationDE)
+- [YPBP_2018](https://github.com/pachterlab/YPBP_2018)
+- [PBPMP_2017](https://github.com/pachterlab/PBPMP_2017)
+- [LTAP_2017](https://github.com/pachterlab/LTAP_2017)
+- [BPMP_2016](https://github.com/pachterlab/BPMP_2016)
 - [attainable_information_figures](https://github.com/pachterlab/attainable_information_figures)
-- [kallisto_paper_analysis](https://github.com/pachterlab/kallisto_paper_analysis)
-- [PROBer_paper_analysis](https://github.com/pachterlab/PROBer_paper_analysis)
-- [sleuth_paper_analysis](https://github.com/pachterlab/sleuth_paper_analysis)
 
 </details>
