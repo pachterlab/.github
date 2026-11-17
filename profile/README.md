@@ -3,25 +3,48 @@
 <details>
 <summary>Open source software</summary>
 
+- [8cubeDB](https://github.com/pachterlab/8cubeDB): Explore gene specificity across founder mouse strains and tissues
+- [alabaster.sfe](https://github.com/pachterlab/alabaster.sfe): Store SpatialFeatureExperiment objects in a language-agnostic format
+- [attainable_information](https://github.com/pachterlab/attainable_information): Estimate limits on information recovery between paired data modalities
+- [biowomp](https://github.com/pachterlab/biowomp): Make alluvial plots with optimized node order and colors (R)
+- [cellsieve](https://github.com/pachterlab/cellsieve): Select compact gene panels to distinguish cell types
+- [cellsweep](https://github.com/pachterlab/cellsweep): Remove technical noise from single-cell RNA-seq count data
+- [Chronocell](https://github.com/pachterlab/Chronocell): Infer trajectories from single-cell genomics data with a process time model
+- [clrcycle](https://github.com/pachterlab/clrcycle): Find circular patterns in gene expression and other measurements
 - [concordex](https://github.com/pachterlab/concordex): Quantitative assessment of single-cell RNA-seq clustering (Python)
 - [concordexR](https://github.com/pachterlab/concordexR): Quantitative assessment of single-cell RNA-seq clustering (R)
+- [ctkit](https://github.com/pachterlab/ctkit): Process CT images for AI and radiomics
+- [edgePython](https://github.com/pachterlab/edgePython): Differential analysis of genomics count data with edgeR methods in Python
+- [ember](https://github.com/pachterlab/ember): Identify specific genes across groups in single-cell RNA-seq data
+- [fastQpick](https://github.com/pachterlab/fastQpick): Sample and bootstrap DNA-seq and RNA-seq FASTQ reads
 - [ffq](https://github.com/pachterlab/ffq): Find sequencing data and metadata from public databases
+- [fva](https://github.com/pachterlab/fva): Decompose latent-space variance into interpretable feature contributions
 - [gget](https://github.com/pachterlab/gget): Efficient querying of genomic reference databases
 - [k-spaces](https://github.com/pachterlab/k-spaces): Fit mixtures of low dimensional Gaussian latent variable models for data modeling, dimension reduction, and subspace learning
 - [kallisto](https://github.com/pachterlab/kallisto): Pseudoalignment for mapping sequence reads to targets, including quantification bulk and single-cell RNA-seq data
 - [kb-python](https://github.com/pachterlab/kb_python): Wrapper for the kallisto | bustools workflow for single-cell RNA-seq preprocessing
 - [kite](https://github.com/pachterlab/kite): Fast and accurate preprocessing of feature barcode experiments
+- [klue](https://github.com/pachterlab/klue): Pseudoassembly of k-mers
+- [Manimble](https://github.com/pachterlab/Manimble): Create and edit animated presentations with Manim
 - [metakallisto](https://github.com/pachterlab/metakallisto): metagenomics analysis with kallisto
 - [monod](https://github.com/pachterlab/monod): Fit chemical master equation models to sequencing data
+- [paperpush](https://github.com/pachterlab/paperpush): Validate manuscripts and automate submission portal completion
 - [PCCA](https://github.com/pachterlab/PCCA): Couple PCA to CCA
+- [qcbc](https://github.com/pachterlab/qcbc): Quality control synthetic barcode sequences for orthogonal sequencing-based assays
 - [rhoPCA](https://github.com/pachterlab/rhopca): The ρPCA method for contrastive PCA of single-cell RNA-seq data
 - [seqspec](https://github.com/pachterlab/seqspec): A machine-readable YAML file format for genomic library sequence and structure
-- [SpatialFeatureExperiment](https://github.com/pachterlab/SpatialFeatureExperiment): Extension of SpatialExperiment with sf
 - [sleuth](https://github.com/pachterlab/sleuth): Differential analysis of bulk RNA-seq
+- [span](https://github.com/pachterlab/span): Link LaTeX mathematics papers to their Lean 4 formalizations
+- [SpatialFeatureExperiment](https://github.com/pachterlab/SpatialFeatureExperiment): Extension of SpatialExperiment with sf
 - [splitcode](https://github.com/pachterlab/splitcode): Flexible and efficient preprocessing, parsing, and manipulation of sequencing reads
-- [qcbc](https://github.com/pachterlab/qcbc): Quality control synthetic barcode sequences for orthogonal sequencing-based assays
+- [stipple](https://github.com/pachterlab/stipple): Estimate spatial variation in RNA capture efficiency
+- [varseek](https://github.com/pachterlab/varseek): Call and genotype variants using k-mer-based alignment
 - [voyager](https://github.com/pachterlab/voyager): Platform for exploratory spatial single-cell genomics data analysis
+- [voyagerpy](https://github.com/pachterlab/voyagerpy): Explore spatial single-cell genomics data in Python
 - [wompwomp](https://github.com/pachterlab/wompwomp): Make alluvial plots with node order and colors optimized to minimize edge crossings
+- [wompywompy](https://github.com/pachterlab/wompywompy): Make alluvial plots with optimized node order and colors (Python)
+- [XgenePy](https://github.com/pachterlab/XgenePy): Analyze cis and trans regulatory differences between strains (Python)
+- [XgeneR](https://github.com/pachterlab/XgeneR): Analyze cis and trans regulatory differences between strains (R)
 
 
 </details>
